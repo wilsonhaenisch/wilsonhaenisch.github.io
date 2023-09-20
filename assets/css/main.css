@@ -1936,6 +1936,10 @@ input, select, textarea {
 			margin: -4em 0 4em -4em;
 			width: auto;
 		}
+		.row .col-3 {
+    	width: 25%;
+    	padding: 0 10px; /* Add some spacing between boxes if needed */
+		}
 
 /* Icons */
 
