@@ -2377,6 +2377,9 @@ input, select, textarea {
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
+				.box.style2 {
+				  height: 400px; /
+				}
 
 		/* Wrappers */
 
